@@ -5,6 +5,7 @@
 
 Welcome to autodoc_sample's documentation!
 ==========================================
+🥑 🍺 🍻
 
 .. toctree::
    :maxdepth: 2

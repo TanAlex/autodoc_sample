@@ -1,6 +1,7 @@
 # Python project sample with sphinx docs and unittest
+  
 
-## conf.py in docs
+## conf.py in docs 🥑
 
 ```
 import os
