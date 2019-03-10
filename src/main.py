@@ -1,3 +1,7 @@
+
+from utils import  *
+from time import sleep
+
 def greeting(name):
     """Print greeting message by given name
 
@@ -14,4 +18,3 @@ def greeting(name):
 if __name__ == "__main__":
     print(greeting("world"))
 
-    
